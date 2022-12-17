@@ -1,0 +1,19 @@
+{
+  "name": "@conditor/cli",
+  "version": "1.0.0",
+  "description": "Conditor is a package builder with a lot of templates to use.",
+  "main": "./app/index.ts",
+  "type": "module",
+  "bin": {
+    "conditor": "./app/index.js"
+  },
+  "author": "NullOnRise",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "8.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.13.10",
+    "@babel/preset-env": "7.20.2"
+  }
+}
