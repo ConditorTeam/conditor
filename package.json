@@ -15,5 +15,24 @@
   "devDependencies": {
     "@babel/core": "7.13.10",
     "@babel/preset-env": "7.20.2"
-  }
+  },
+  "homepage": "https://github.com/ConditorTeam/conditor",
+  "repository": {
+    "url": "https://github.com/ConditorTeam/conditor.git",
+    "type": "github"
+  },
+  "readme": "./README.md",
+  "keywords": [
+    "conditor",
+    "builder",
+    "templates",
+    "pnpm",
+    "vue",
+    "react",
+    "nextjs",
+    "express",
+    "ejs",
+    "free",
+    "nullonrise"
+  ]
 }
