@@ -8,21 +8,21 @@ If any framework wants to quit his template from here contact me via discord (Nu
 
 ## All the magic starts with
 ```
-npx conditor
+npx @conditor/cli
 ```
 or
 ```
-npm i -g conditor && conditor
+npm i -g @conditor/cli && conditor
 ```
 
 you can use Yarn or PNPM
 
 ```
-yarn i -g conditor && conditor
+yarn i -g @conditor/cli && conditor
 ```
 
 ```
-pnpm i -g conditor && conditor
+pnpm i -g @conditor/cli && conditor
 ```
 
 
